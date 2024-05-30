@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:metroidvaniaProject/Assets/Animations/Skeleton/New Animator Controller.controller.meta
+guid: 2dffb6a0515974f8f968ae19354de938
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+========
+guid: f3474f7958da67b4cb4fa2a15544e66b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 6200000
+>>>>>>>> origin/NewSlime:metroidvaniaProject/Assets/Slimy.physicsMaterial2D.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
