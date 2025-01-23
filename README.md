@@ -18,6 +18,19 @@ You'll have acess to the following transformations:
 
 There will be enemies walking around that you can fight using the transformations. There will also be platforming challenges and puzzles where you need to find out the order of transformations to clear a gap or be precise in how you move with the transformations.
 
+## Screenshots
+
+![grafik](https://github.com/user-attachments/assets/fe333492-34bb-4ace-86e8-9f395183fd2f)
+
+Test your skills in 3 different challengees!
+![grafik](https://github.com/user-attachments/assets/7493657d-73af-4fa0-9ea1-c3660547477f)
+
+Fight enemies, avoid hazards, and do some platforming!
+![grafik](https://github.com/user-attachments/assets/08cd1fe5-2c4b-43c1-90bc-2330b1df7c29)
+![grafik](https://github.com/user-attachments/assets/e2499bb7-6c60-4cec-afc2-a521a44bc05b)
+![grafik](https://github.com/user-attachments/assets/e039b796-9cfe-47bb-8e28-b4745e9c34cd)
+
+
 ## What can you do in the alpha?
 
 You can play a test level in which you can transform into the different transformations described above.
