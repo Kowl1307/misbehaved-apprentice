@@ -1,4 +1,5 @@
-# GameDevelopmentLab-WiSe2324-Group1
+# GameDevelopmentLab-WiSe2324 at RWTH Aachen
+This is a university game project
 
 ## Overview of Game Idea
 
